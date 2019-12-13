@@ -6,7 +6,8 @@ const SmurfForm = props => {
   const [user, setUser] = useState({
     name: "",
     age: "",
-    height: ""
+    height: "",
+    id: ""
   });
 
   const handleSubmit = e => {
