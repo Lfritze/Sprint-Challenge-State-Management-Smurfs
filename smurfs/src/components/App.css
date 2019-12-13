@@ -18,9 +18,10 @@ body {
   text-align: center;
   border: 1px solid black;
   background-image: url("./assets/mushroom.jpg");
+  background-repeat: no-repeat;
   border-radius: 50px;
-  background-size: 100%;
-  border: 15px solid black;
+  background-size: 160%;
+  border: 15px solid purple;
   color: yellow;
 }
 
